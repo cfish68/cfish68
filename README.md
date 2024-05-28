@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## Tech Skills:
+### Tech Skills:
 
-## Socials
+### Socials:
 <!--
 **cfish68/cfish68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
