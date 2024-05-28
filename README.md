@@ -1,8 +1,16 @@
-# Hi there 👋
+#  About Me:
 
-### Tech Skills:
+Software engineer with strong communication skills. Has the ability 
+and passion to learn new technologies. Bringing a positive can-do 
+attitude, high motivation and good problem solving skills. He can be a 
+good resource for your company! 
+Especially interested in backend development, algorithm development 
+and implementation.
 
-### Socials:
+## 🖥️Tech Skills:
+
+
+## Socials:
 <!--
 **cfish68/cfish68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
